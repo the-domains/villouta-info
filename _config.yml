@@ -1,7 +1,7 @@
 name: villouta.info
 favicon: null
-layout_spectrum: 0.4114698071498424
-typography_spectrum: 0.9041481206659228
+layout_spectrum: 1
+typography_spectrum: 0.49707
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.834701391402632
-  lightness: 0.642360799247399
-  saturation: 0.7864935579709709
-  rhythmicContrast: 0.47899921890348196
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
